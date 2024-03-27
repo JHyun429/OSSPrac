@@ -1,7 +1,5 @@
 # OSSPrac_JH
 
 
-My Name: JiHyun OH
-My Class: OSSPrac  
+My Name: JiHyun OH  
 Date: 27. Mar. 2024
-Weather: Clean
