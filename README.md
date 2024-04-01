@@ -8,5 +8,7 @@ fetch & merge
 A
 B
 C
+D
+F
 E
 G
