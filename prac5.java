@@ -19,6 +19,7 @@ public class prac5 {
 		System.out.println("이름: " + name);
 		System.out.println("학번: " + num);
 		System.out.println("학과: " + major);
+		System.out.println(" ");
 		
 
 	}
