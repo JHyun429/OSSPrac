@@ -14,7 +14,7 @@ public class prac5 {
 		System.out.println("학과를 입력하세요: ");
 		String major = sc.next();
 		
-    System.out.println("학교를 입력하세요: ");
+    		System.out.println("학교를 입력하세요: ");
 		String univ = sc.next();
     
 		System.out.println("학년를 입력하세요: ");
