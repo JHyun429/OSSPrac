@@ -8,5 +8,3 @@ Date: 27. Mar. 2024
 Machine Learning Access Control
 
 MLAC example
-
-ABC  
